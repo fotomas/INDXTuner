@@ -1,0 +1,16 @@
+{
+	"id": "IndxTuner",
+	"name": "INDX Tuner",
+	"author": "fotomas",
+	"version": "1.0.0",
+	"license": "GPL-3.0-or-later",
+	"homepage": "https://github.com/fotomas/IndxTuner",
+	"dwcVersion": "auto-major",
+	"rrfVersion": "3.7",
+	"tags": [
+		"indx",
+		"toolchanger",
+		"tuning",
+		"ratrig"
+	]
+}

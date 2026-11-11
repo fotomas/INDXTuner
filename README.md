@@ -50,7 +50,7 @@ setup instructions.
 
 ## Install
 
-1. Download `IndxTuner-1.0.0.zip` from [Releases](https://github.com/fotomas/IndxTuner/releases).
+1. Download `IndxTuner-1.0.0.zip` from [Releases](https://github.com/fotomas/INDXTuner/releases).
 2. In DWC open **Settings → Plugins → External plugins → Install plugin** and choose the zip.
 3. Start the plugin and open **Plugins → INDX Tuner**.
 
